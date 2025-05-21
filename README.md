@@ -1,2 +1,2 @@
 # Socially-website
-This is my first animated website
+This is my first animated website.
